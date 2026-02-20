@@ -1,0 +1,29 @@
+{
+  "name": "reactnamastejs",
+  "version": "1.0.0",
+  "description": "namaste react project",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prajjal1997/namasteReact.git"
+  },
+  "keywords": [
+    "react",
+    "prajjal"
+  ],
+  "author": "prajjal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prajjal1997/namasteReact/issues"
+  },
+  "homepage": "https://github.com/prajjal1997/namasteReact#readme",
+  "dependencies": {
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}

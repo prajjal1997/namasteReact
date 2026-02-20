@@ -1,0 +1,18 @@
+17
+55C:\Users\Prajjal Saxena\Downloads\reactnamastejs\App.js134147011514435612 0
+61C:\Users\Prajjal Saxena\Downloads\reactnamastejs\package.json134147913775743816 0
+80C:\Users\Prajjal Saxena\Downloads\reactnamastejs\node_modules\.package-lock.json134147914173297026 0
+66C:\Users\Prajjal Saxena\Downloads\reactnamastejs\package-lock.json134147914173297026 0
+59C:\Users\Prajjal Saxena\Downloads\reactnamastejs\.gitignore134147903298469588 0
+54C:\Users\Prajjal Saxena\Downloads\reactnamastejs\notes134147903120300910 0
+58C:\Users\Prajjal Saxena\Downloads\reactnamastejs\index.css134146155502198664 0
+67C:\Users\Prajjal Saxena\Downloads\reactnamastejs\node_modules\@lmdb134147914139807502 1
+59C:\Users\Prajjal Saxena\Downloads\reactnamastejs\index.html134146154979305177 0
+61C:\Users\Prajjal Saxena\Downloads\reactnamastejs\node_modules134147914152503907 1
+66C:\Users\Prajjal Saxena\Downloads\reactnamastejs\node_modules\@swc134147914152638420 1
+58C:\Users\Prajjal Saxena\Downloads\reactnamastejs\README.md134147016103849129 0
+66C:\Users\Prajjal Saxena\Downloads\reactnamastejs\node_modules\.bin134147914138409644 1
+68C:\Users\Prajjal Saxena\Downloads\reactnamastejs\node_modules\@lezer134147914144834102 1
+71C:\Users\Prajjal Saxena\Downloads\reactnamastejs\node_modules\@mischnic134147914137739715 1
+79C:\Users\Prajjal Saxena\Downloads\reactnamastejs\node_modules\@msgpackr-extract134147914139808734 1
+69C:\Users\Prajjal Saxena\Downloads\reactnamastejs\node_modules\@parcel134147914173139212 1

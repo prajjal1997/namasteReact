@@ -1,0 +1,28 @@
+Package.json
+
+Package.json is configuration for npm.Suppose we make the project that time we need 
+more packages that time we use that other packages so npm means manage the packages so here its manage all the packages like what's the version of the package and all.
+
+BUNDLERS : we use bundler package to manage the project. Its very helpful at the time of deployment. The bundlers package are veet, parcel and web pack. we use parser in this project.
+
+=> In the command line we are writting -d like npm install -D parcel why we write because we have two depandency dev depandancy and normal depandancy. 
+1) dev dependency (-D) use when we are in the development phase
+2) normal dependency when we are in the production deployment phase
+
+=> When we install depandencies eg "parcel": "^2.16.4" so why we use caret(^) and can we use `tilde here .
+
+=> when use put (^) caret before a version number eska mtlb hota h project bs accept krega updates bss major updates nahi lega like i have react : ^17.0.2 likha h toh ye sirf 17.1.0 ya 17.2.5 version tak update kr saktta h but ye 18.0.0 pr nahi jayega
+
+=> when use put tilde it allows update that only change the right most digit it accept only react `17.0.2 lika h toh ye bss 17.0.3 ya 17.0.4 le sakte h lekin ye 17.1.0 pr nahi jayega
+
+=> package.json m package updates tilde or caret decide krte h but package.lock .json m wo package lock ho jatta h jise ki koi m new developer kaam kare toh usko same environment milla n ki new environment m kaam kare or error milla usa
+
+
+=> What is transitive dependencies?
+jab hum koi package install krte h like npm i parcel so humara node modules m atta h uski saari cheeja but hum jab install krte h toh parcel ke alawa bhi or cheeja a jaati wo esliye because humme parcel ki need h toh waise he same parcel ko bhi or depandencies ki need h or un dependancies ko bhi dusri depandencies ki need h esliye node module m ethni saare packages a jaate h that is known as transitive dependencies.
+
+=> Why we are not use the depandancy for react in script tag and why we install react in our project?
+ simple becuase if we use dependancy, if react version change so the depancy change that time but if we already instaall the react in our project so no changes in the project agar hum depandancy use bhi krte h toh baar baar change krna hota h depandancy ko
+
+
+ 

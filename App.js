@@ -5,8 +5,10 @@
  *    </div>
  * </div>
  */
+import React from "react";
+import ReactDOM from "react-dom/client";
 
-const parent = React.createElement(
+const parent = React.createElement("aside"
   "div",
   { id: "parent" },
   React.createElement(
